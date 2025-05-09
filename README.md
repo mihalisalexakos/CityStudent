@@ -1,29 +1,5 @@
-# weather-app
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+First project with Vue.js :)) Fetches data from Geopify, Wikipedia, Gnews and OpenWeatherMap API to display:
+Current weather, info about the city, top tourist destinations of said city, and lastly news regarding that place
+<img width="1552" alt="Screenshot 2025-05-10 at 01 07 43" src="https://github.com/user-attachments/assets/f5a4646b-3518-4604-83f6-97eb3d00fde3" />
+<img width="1552" alt="Screenshot 2025-05-10 at 01 07 47" src="https://github.com/user-attachments/assets/7f179067-c344-4f5c-a78e-f0e03cc7b695" />
+also first time ive added a loding icon ^^
